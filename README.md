@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz eğitimi kapsamında açtığım ilk repo
